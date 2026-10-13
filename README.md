@@ -1,12 +1,8 @@
 # Swag Labs: Demo E-Commerce Website Test Suite (Manual Testing)
 
-This is a personal practice project. I tested SauceDemo, a demo e-commerce website made for QA practice, and wrote test cases and bug reports based on what I found.
+This is my personal test suite. I tested Swag Labs, a demo e-commerce website made for Quality Assurance practice, and wrote test cases and bug reports based on what I found.
 
-*Note: Since this is a demo site with no official requirements document, I wrote my own requirements (with some help from AI) based on how the site is expected to behave, then used those as the basis for testing.*
-
-## Purpose
-
-I made this project to practice manual testing skills:
+I made this test suite just to practice manual testing:
 - Creating test scenarios covering positive, negative, and edge cases
 - Writing clear test steps and using appropriate test data
 - Documenting expected and actual results
